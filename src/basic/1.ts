@@ -1,9 +1,9 @@
-console.log(55);
+console.log(11);
 
 const age: number = 50;
 const username: string = "Max";
 const toggle: boolean = true;
 const empty: null = null;
-const callback = (a:number``) => {
+const callback = (a:number) => {
   return 100 + a;
 };
